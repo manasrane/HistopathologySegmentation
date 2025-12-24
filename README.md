@@ -103,4 +103,8 @@ Feel free to open issues or submit pull requests!
 
 ## 📄 License
 
+
 This project is open-source.
+
+## Sample Output 
+[Histopathology Gland Segmentation Output.pdf](https://github.com/user-attachments/files/24323975/Histopathology.Gland.Segmentation.Output.pdf)
