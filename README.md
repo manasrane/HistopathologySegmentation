@@ -107,4 +107,10 @@ Feel free to open issues or submit pull requests!
 This project is open-source.
 
 ## Sample Output 
+Original Image:
+<img width="901" height="778" alt="image" src="https://github.com/user-attachments/assets/88273483-8801-43c6-808f-b422c9c268ee" />
+
+Segmentated Output:
+<img width="848" height="452" alt="image" src="https://github.com/user-attachments/assets/6003d3fb-717e-4ff0-bb81-48048ace1a6f" />
+
 [Histopathology Gland Segmentation Output.pdf](https://github.com/user-attachments/files/24323975/Histopathology.Gland.Segmentation.Output.pdf)
